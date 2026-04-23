@@ -13,9 +13,17 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/720035730382127155)
 [![GitHub](https://img.shields.io/badge/GitHub-%23FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoName-IA)
 
+---
+
+### 🌐 Conecta conmigo
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=0D1117&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código...)](https://discord.com/users/720035730382127155)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=for-the-badge)](https://github.com/NoName-IA)
+[![LinkedIn Card](https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/linkedin-card.svg)](https://www.linkedin.com/in/brandon-alvis-b2385721a/)
+
+[![GitHub Card](https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/github-card.svg)](https://github.com/NoName-IA)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=for-the-badge&label=Visitas+al+perfil)](https://github.com/NoName-IA)
 
 </div>
 
@@ -23,7 +31,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo mas de 3 años especializandome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos relacionales y no relacionales.
+Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo más de 3 años especializándome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos relacionales y no relacionales.
 
 ---
 
@@ -98,7 +106,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ---
 
-## 💬 Frase del dia
+## 💬 Frase del día
 
 <div align="center">
 
@@ -112,13 +120,15 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 <div align="center">
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake.svg" />
   <img alt="snake animation" src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake.svg" />
 </picture>
 
+</div>
+
+---
 
 ## 💰 Apóyame
 
