@@ -1,0 +1,22 @@
+<svg width="480" height="90" viewBox="0 0 480 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="round"><rect width="480" height="90" rx="10"/></clipPath>
+  </defs>
+  <rect width="480" height="90" rx="10" fill="#0D1117"/>
+  <rect width="480" height="90" rx="10" fill="none" stroke="#FF6B6B" stroke-width="1.5"/>
+
+  <!-- GitHub icon box -->
+  <rect x="12" y="12" width="66" height="66" rx="8" fill="#161B22"/>
+  <!-- GitHub octocat simple SVG -->
+  <text x="45" y="57" font-family="Arial" font-size="38" fill="#FF6B6B" text-anchor="middle">⌥</text>
+
+  <!-- Name -->
+  <text x="94" y="34" font-family="Arial" font-size="16" font-weight="bold" fill="#FFFFFF">NoName-IA</text>
+  <!-- Description -->
+  <text x="94" y="54" font-family="Arial" font-size="13" fill="#8B949E">Full Stack Developer · Colombia 🇨🇴</text>
+  <!-- Link -->
+  <text x="94" y="72" font-family="Arial" font-size="11" fill="#FF6B6B">github.com/NoName-IA</text>
+
+  <!-- Arrow -->
+  <text x="450" y="50" font-family="Arial" font-size="20" fill="#FF6B6B" text-anchor="middle">›</text>
+</svg>
