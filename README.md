@@ -59,7 +59,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ---
 
-## 🐍 Snake en mis contribuciones
+## 🐍 Snake 
 
 <div align="center">
 
