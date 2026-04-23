@@ -8,22 +8,17 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/▲_Portfolio-000000?style=for-the-badge&logoColor=white)](https://github.com/NoName-IA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandon-alvis-b2385721a/)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/720035730382127155)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoName-IA)
-
----
-
 ### 🌐 Conecta conmigo
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=0D1117&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código...)](https://discord.com/users/720035730382127155)
+
+[![Discord Card](https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/discord-card.svg)](https://discord.com/users/720035730382127155)
 
 [![LinkedIn Card](https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/linkedin-card.svg)](https://www.linkedin.com/in/brandon-alvis-b2385721a/)
 
 [![GitHub Card](https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/github-card.svg)](https://github.com/NoName-IA)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=for-the-badge&label=Visitas+al+perfil)](https://github.com/NoName-IA)
+[![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=flat-square&label=Visitas+al+perfil)](https://github.com/NoName-IA)
 
 </div>
 
