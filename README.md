@@ -111,9 +111,8 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/pacman-contribution-graph.svg">
 </picture>
 
 
