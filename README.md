@@ -1,8 +1,6 @@
 <div align="center">
 
-### Full Stack Developer
-
-*"El hábito de hacerlo bien elimina la opción de hacerlo mal."*
+### -Full Stack Developer-
 
 ---
 
@@ -14,7 +12,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=0D1117&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código...)](https://discord.com/users/720035730382127155)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=for-the-badge)](https://github.com/NoName-IA)
+![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA-v2&color=FF6B6B&style=for-the-badge)
 
 </div>
 
@@ -28,7 +26,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ## 🎯 Intereses
 
-💻 Desarrollo Web | 🗄️ Bases de Datos | ⚙️ Automatización | 🧠 Inteligencia Artificial | 🌐 Arquitectura de Software
+💻 Desarrollo Web | 🗄️ Bases de Datos | ⚙️ Automatización | 🧠 Inteligencia Artificial | 🌐 Arquitectura de Software | 🎮 Gaming 
 
 ---
 
@@ -97,7 +95,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ---
 
-## 💬 Frase del dia
+## 💬 Filosofía
 
 <div align="center">
 
