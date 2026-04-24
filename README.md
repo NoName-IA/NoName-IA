@@ -1,7 +1,5 @@
 <div align="center">
 
-# Brandon Alvis
-
 ### Full Stack Developer
 
 *"El hábito de hacerlo bien elimina la opción de hacerlo mal."*
