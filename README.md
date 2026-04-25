@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo mas de 3 años especializandome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos relacionales y no relacionales.
+Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo mas de 3 años especializandome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos.
 
 ---
 
