@@ -70,7 +70,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ## 🌟 Proyectos Destacados
 
-> 🚧 Trabajando en algo interesante... ¡vuelve pronto!
+**💼 [Portfolio Personal](https://project-56jx9.vercel.app/)** — Sitio web profesional y portafolio de proyectos
 
 ---
 
