@@ -12,7 +12,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=0D1117&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código...)](https://discord.com/users/720035730382127155)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA&color=FF6B6B&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA-v2&color=FF6B6B&style=for-the-badge)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo más de 3 años especializándome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos.
+Soy un desarrollador Full Stack apasionado por construir aplicaciones web robustas y escalables. Tengo mas de 3 años especializandome en el desarrollo tanto de interfaces de usuario como en la lógica del servidor, con experiencia en bases de datos.
 
 ---
 
@@ -70,7 +70,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 ## 🌟 Proyectos Destacados
 
-**💼 [Portfolio Personal](https://project-56jx9.vercel.app/)** — Sitio web profesional
+**💼 [Portfolio Personal](https://project-56jx9.vercel.app/)** — Sitio web profesional y portafolio de proyectos
 
 ---
 
@@ -81,15 +81,15 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&cache_seconds=1800" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=NoName-IA&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=FFFFFF&sideLabels=FF6B6B&sideNums=FFFFFF&stroke=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoName-IA&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=FFFFFF&sideLabels=FF6B6B&sideNums=FFFFFF&stroke=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -109,14 +109,12 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 <div align="center">
 
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake graph" src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/output/snake-contribution-graph-dark.svg" />
 </picture>
 
-</div>
-
----
 
 ## 💰 Apóyame
 
@@ -131,5 +129,5 @@ Si te gusta mi trabajo, puedes invitarme un café ☕
 ---
 
 <div align="center">
-  <sub>⭐️ Transformando problemas en soluciones, un commit a la vez | <a href="https://github.com/NoName-IA">@NoName-IA</a></sub>
+  <sub>⭐️ Transformando problemas en soluciones, un commit a la vez | Brandon Alvis · <a href="https://github.com/NoName-IA">@NoName-IA</a></sub>
 </div>
