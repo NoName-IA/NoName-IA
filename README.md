@@ -81,7 +81,7 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical" />
