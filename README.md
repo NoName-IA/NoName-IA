@@ -78,17 +78,6 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoName-IA&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=FFFFFF&sideLabels=FF6B6B&sideNums=FFFFFF&stroke=0D1117" alt="GitHub Streak"/>
 
 </div>
