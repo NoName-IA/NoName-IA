@@ -81,14 +81,15 @@ Soy un desarrollador Full Stack apasionado por construir aplicaciones web robust
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&theme=radical" />
     </td>
   </tr>
 </table>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoName-IA&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&dates=FFFFFF&sideLabels=FF6B6B&sideNums=FFFFFF&stroke=0D1117" alt="GitHub Streak"/>
 
 </div>
 
