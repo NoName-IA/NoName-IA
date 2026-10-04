@@ -38,7 +38,6 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas y
 
 <br/><br/>
 
-**Editores de código**
 
 ![VSCode](https://img.shields.io/badge/VS_CODE-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white)
