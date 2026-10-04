@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/assets/header.svg" alt="brandon alvis — fullstack developer" width="100%" />
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/Header.svg" alt="brandon alvis — fullstack developer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00E5A0&background=00000000&center=true&vCenter=true&width=640&lines=%24+whoami+%E2%86%92+Full+Stack+Developer;%24+focus+%E2%86%92+Web+%C2%B7+Bases+de+Datos+%C2%B7+IA;%24+status+%E2%86%92+construyendo+cosas+escalables;%24+echo+%22Probablemente+escribiendo+c%C3%B3digo...%22" alt="typing" />
