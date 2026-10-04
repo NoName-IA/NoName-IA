@@ -54,14 +54,14 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas y
 
 ---
 
-## `> stats`
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NoName-IA&show_icons=true&hide_border=true&bg_color=000000&title_color=00E5A0&icon_color=00E5A0&text_color=E8E8E8&ring_color=00E5A0" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=compact&hide_border=true&bg_color=000000&title_color=00E5A0&text_color=E8E8E8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoName-IA&theme=github_dark" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NoName-IA&theme=github_dark" alt="Top languages by repo" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NoName-IA&theme=dark&hide_border=true&background=000000&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" />
+<img src="https://streak-stats.demolab.com/?user=NoName-IA&theme=github-dark-blue&hide_border=false" alt="Streak" width="60%" />
 
 </div>
 
