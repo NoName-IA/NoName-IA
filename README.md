@@ -20,7 +20,7 @@
 
 ## 💻 Sobre Mí
 
-Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas y escalables, desde interfaces pulidas hasta una lógica de backend y bases de datos sólidas. Me adapto a las necesidades de cada proyecto y me encanta transformar ideas en experiencias funcionales.
+Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, desde interfaces pulidas hasta una lógica de backend y bases de datos sólidas. Me adapto a las necesidades de cada proyecto y me encanta transformar ideas en experiencias funcionales.
 
 ---
 
