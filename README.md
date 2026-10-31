@@ -49,28 +49,6 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <a href="https://brandonalvis.vercel.app/"><img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/project-portfolio.svg" alt="Portfolio Personal — brandonalvis.vercel.app" width="100%" /></a>
 
-<details>
-<summary><code>$ cat portfolio/README.md</code> &nbsp;<sub>// click para ver detalles</sub></summary>
-<br/>
-
-```diff
-+ especialidad : full_stack · frontend · backend · bases_de_datos
-+ arquitectura : escalabilidad · MVC · APIs
-+ devops       : docker · git · CI/CD
-+ metodologías : agile · clean_code · SOLID
-+ bases_datos  : MySQL · PostgreSQL · Firebase
-+ lenguajes    : JavaScript · Python · PHP · Java
-```
-
-<div align="center">
-
-[![Visitar](https://img.shields.io/badge/▶_VISITAR_PORTAFOLIO_→-FAFF00?style=for-the-badge&logoColor=000000)](https://brandonalvis.vercel.app/)
-[![Email](https://img.shields.io/badge/HABLEMOS-000000?style=for-the-badge&logo=gmail&logoColor=00E5A0)](mailto:brandonoffice99@gmail.com)
-
-</div>
-
-</details>
-
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-activity.svg" width="100%" />
