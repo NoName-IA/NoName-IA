@@ -28,7 +28,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## `> tech_stack`
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-techstack.svg" width="100%" />
 
 <div align="center">
 
