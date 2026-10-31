@@ -32,7 +32,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=astro,tailwind,bootstrap,html,css,nodejs,laravel,php,java,discordjs,mysql,postgres,supabase,js,ts,py,docker,git,github,dart,expo,reactnative,api&theme=dark&perline=8" alt="tech stack" />
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/stack-carousel.svg" alt="tech stack" width="100%" />
 
 <br/><br/>
 
