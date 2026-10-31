@@ -50,8 +50,6 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-proyectos.svg" width="100%" />
-
 <a href="https://brandonalvis.vercel.app/"><img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/project-portfolio.svg" alt="Portfolio Personal — brandonalvis.vercel.app" width="100%" /></a>
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
