@@ -27,7 +27,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <div align="center">
 
-<a href="https://discord.com/users/720035730382127155"><img width="420" src="https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=000000&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código..." alt="Discord Presence" /></a>
+<a href="https://discord.com/users/720035730382127155"><img width="420" src="https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=000000&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20c%C3%B3digo..." alt="Discord Presence" /></a>
 
 </div>
 
