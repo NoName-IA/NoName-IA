@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="100%" role="img" aria-label="El hábito de hacerlo bien elimina la opción de hacerlo mal.">
+<defs>
+<pattern id="dt" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#00e5a0" fill-opacity=".14"/></pattern>
+<linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00e5a0" stop-opacity="0"/><stop offset=".5" stop-color="#00e5a0" stop-opacity=".8"/><stop offset="1" stop-color="#00e5a0" stop-opacity="0"/></linearGradient>
+<linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00e5a0" stop-opacity="0"/><stop offset="1" stop-color="#00e5a0" stop-opacity=".18"/></linearGradient>
+<text id="tx" x="500" y="96" text-anchor="middle" class="T"><tspan class="gp">“</tspan>El hábito de hacerlo bien elimina la opción de hacerlo mal.<tspan class="gp">”</tspan></text>
+</defs>
+<style>
+.T{font:italic 600 22px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fill:var(--c,#e8e8e8);letter-spacing:0px}
+.gp{fill:var(--p,#00e5a0)}
+.sm{font:13px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fill:#8b949e}.tag{font:12px "SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;fill:#00e5a0;fill-opacity:.7}
+.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{fill-opacity:0}}
+.jt{transform-origin:500px 81px;animation:jt 4.6s steps(1) infinite}
+@keyframes jt{0%,87%,100%{transform:none}87.5%{transform:translateX(-6px) skewX(-8deg)}88.3%{transform:translateX(5px)}89%{transform:skewX(5deg)}89.6%{transform:none}95%{transform:translate(3px,-1px)}95.5%{transform:none}}
+.rgb{opacity:0;mix-blend-mode:screen;animation:4.6s steps(1) infinite}.rr{animation-name:rr}.rc{animation-name:rc}
+@keyframes rr{0%,87%,100%{opacity:0;transform:none}87.5%{opacity:.75;transform:translateX(-5px)}89%{opacity:.5;transform:translateX(3px)}89.6%{opacity:0;transform:none}95%{opacity:.6;transform:translateX(-3px)}95.5%{opacity:0;transform:none}}
+@keyframes rc{0%,87%,100%{opacity:0;transform:none}87.5%{opacity:.75;transform:translateX(5px)}89%{opacity:.5;transform:translateX(-3px)}89.6%{opacity:0;transform:none}95%{opacity:.6;transform:translateX(3px)}95.5%{opacity:0;transform:none}}
+.gs{opacity:0;animation-timing-function:steps(1);animation-iteration-count:infinite}.g0{animation-name:k0}.g1{animation-name:k1}
+@keyframes k0{0%,85%,100%{opacity:0;transform:none}86%{opacity:1;transform:translateX(-18px)}88%{opacity:1;transform:translateX(12px)}90%{opacity:0;transform:none}}
+@keyframes k1{0%,85%,100%{opacity:0;transform:none}86%{opacity:1;transform:translateX(22px)}87.5%{opacity:1;transform:translateX(-9px)}89.5%{opacity:0;transform:none}}
+.bk{opacity:0;animation-name:bf;animation-timing-function:steps(1);animation-iteration-count:infinite}
+@keyframes bf{0%,90%,100%{opacity:0}91%{opacity:.85}92.5%{opacity:0}94%{opacity:.5}95%{opacity:0}}
+.scn{animation:scn 5s linear infinite}@keyframes scn{from{transform:translateY(-30px)}to{transform:translateY(150px)}}
+</style>
+<rect width="1000" height="150" rx="12" fill="#000"/>
+<rect width="1000" height="150" rx="12" fill="url(#dt)"/>
+<g class="scn"><rect x="0" y="0" width="1000" height="30" fill="url(#sg)"/></g>
+<rect x=".5" y=".5" width="999" height="149" rx="12" fill="none" stroke="#0f2a22"/>
+<text x="60" y="34" class="sm"><tspan class="gp">&gt;</tspan> filosofia</text><text x="940" y="34" text-anchor="end" class="tag">[ 0x05 ]</text>
+<g class="rgb rr" style="--c:#ff2b6a;--p:#ff2b6a"><use href="#tx"/></g><g class="rgb rc" style="--c:#00d4ff;--p:#00d4ff"><use href="#tx"/></g>
+<g class="jt"><use href="#tx"/></g>
+<clipPath id="c0"><rect x="0" y="66" width="1000" height="9"/></clipPath><g clip-path="url(#c0)"><g class="gs g0" style="animation-duration:6.9s;animation-delay:1.6s"><use href="#tx"/></g></g><clipPath id="c1"><rect x="0" y="80" width="1000" height="6"/></clipPath><g clip-path="url(#c1)"><g class="gs g1" style="animation-duration:6.4s;animation-delay:3.2s"><use href="#tx"/></g></g><clipPath id="c2"><rect x="0" y="90" width="1000" height="7"/></clipPath><g clip-path="url(#c2)"><g class="gs g0" style="animation-duration:6.7s;animation-delay:3.9s;--c:#00d4ff;--p:#00d4ff"><use href="#tx"/></g></g>
+<rect class="bk" x="805" y="121" width="22" height="3" fill="#ff2b6a" style="animation-duration:3.3s;animation-delay:2.1s"/><rect class="bk" x="208" y="103" width="32" height="2" fill="#00d4ff" style="animation-duration:6.0s;animation-delay:0.6s"/><rect class="bk" x="177" y="29" width="13" height="3" fill="#00d4ff" style="animation-duration:6.1s;animation-delay:4.1s"/><rect class="bk" x="82" y="107" width="22" height="2" fill="#e8e8e8" style="animation-duration:6.8s;animation-delay:0.9s"/><rect class="bk" x="456" y="132" width="7" height="3" fill="#e8e8e8" style="animation-duration:3.5s;animation-delay:1.4s"/><rect class="bk" x="615" y="125" width="42" height="4" fill="#e8e8e8" style="animation-duration:4.1s;animation-delay:0.9s"/><rect class="bk" x="860" y="65" width="35" height="3" fill="#ff2b6a" style="animation-duration:5.9s;animation-delay:4.1s"/><rect class="bk" x="911" y="115" width="20" height="2" fill="#00e5a0" style="animation-duration:5.7s;animation-delay:0.8s"/><rect class="bk" x="105" y="69" width="19" height="4" fill="#00d4ff" style="animation-duration:6.4s;animation-delay:0.1s"/><rect class="bk" x="522" y="107" width="24" height="2" fill="#00d4ff" style="animation-duration:3.2s;animation-delay:2.9s"/>
+<text x="500" y="128" text-anchor="middle" class="sm">// regla #1</text>
+<rect x="60" y="142" width="880" height="1" fill="url(#ln)"/>
+</svg>
