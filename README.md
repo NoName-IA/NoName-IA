@@ -55,7 +55,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoName-IA&theme=github_dark" alt="Stats" width="49%" />
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/stats.svg" alt="Stats" width="49%" />
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/top-langs.svg" alt="Top languages" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=NoName-IA&hide_border=false&background=000000&border=0f2a22&stroke=0f2a22&ring=00E5A0&fire=00E5A0&currStreakNum=00E5A0&currStreakLabel=00E5A0&sideNums=E8E8E8&sideLabels=8B949E&dates=6E7681" alt="Streak" width="60%" />
 
