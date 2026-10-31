@@ -64,7 +64,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <div align="center">
 
-[![Visitar](https://img.shields.io/badge/▲_VISITAR_SITIO-000000?style=for-the-badge&logoColor=00E5A0)](https://brandonalvis.vercel.app/)
+[![Visitar](https://img.shields.io/badge/▶_VISITAR_PORTAFOLIO_→-FAFF00?style=for-the-badge&logoColor=000000)](https://brandonalvis.vercel.app/)
 [![Email](https://img.shields.io/badge/HABLEMOS-000000?style=for-the-badge&logo=gmail&logoColor=00E5A0)](mailto:brandonoffice99@gmail.com)
 
 </div>
