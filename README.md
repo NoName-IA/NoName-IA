@@ -93,6 +93,8 @@ Si te gusta mi trabajo, puedes invitarme un café ☕
 
 </div>
 
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/pip.svg" alt="pip" width="100%" />
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,0,2,0,229,160&height=90&section=footer" width="100%" />
 
 <div align="center">
