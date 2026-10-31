@@ -21,7 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-whoami.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-whoami.svg?v=2" width="100%" />
 
 Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, desde interfaces pulidas hasta una lógica de backend y bases de datos sólidas. Me adapto a las necesidades de cada proyecto y me encanta transformar ideas en experiencias funcionales.
 
@@ -50,7 +50,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-<a href="https://brandonalvis.vercel.app/"><img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/project-portfolio.svg" alt="Portfolio Personal — brandonalvis.vercel.app" width="100%" /></a>
+<a href="https://brandonalvis.vercel.app/"><img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/project-portfolio.svg?v=2" alt="Portfolio Personal — brandonalvis.vercel.app" width="100%" /></a>
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
@@ -70,7 +70,7 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-contribuciones.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-contribuciones.svg?v=2" width="100%" />
 
 <div align="center">
 
