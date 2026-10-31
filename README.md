@@ -14,7 +14,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5A0)](https://github.com/NoName-IA)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00E5A0)](mailto:brandonoffice99@gmail.com)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=000000&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código...)](https://discord.com/users/720035730382127155)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NoName-IA-v2&label=PROFILE+VIEWS&color=00E5A0&labelColor=000000&style=for-the-badge)
 
@@ -25,6 +24,12 @@
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-whoami.svg" width="100%" />
 
 Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, desde interfaces pulidas hasta una lógica de backend y bases de datos sólidas. Me adapto a las necesidades de cada proyecto y me encanta transformar ideas en experiencias funcionales.
+
+<div align="center">
+
+<a href="https://discord.com/users/720035730382127155"><img width="420" src="https://lanyard.cnrad.dev/api/720035730382127155?theme=dark&bg=000000&borderRadius=10px&idleMessage=Probablemente%20escribiendo%20código..." alt="Discord Presence" /></a>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
