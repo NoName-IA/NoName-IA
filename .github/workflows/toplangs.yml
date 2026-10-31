@@ -1,0 +1,84 @@
+name: Top Languages
+
+on:
+  schedule: [{ cron: "17 */12 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  top-langs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generar tarjeta de lenguajes
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const user = 'NoName-IA';
+            const repos = await github.paginate(github.rest.repos.listForUser, { username: user, type: 'owner', per_page: 100 });
+            const totals = {};
+            for (const r of repos) {
+              if (r.fork || r.archived) continue;
+              const res = await github.rest.repos.listLanguages({ owner: user, repo: r.name });
+              for (const [lang, bytes] of Object.entries(res.data)) totals[lang] = (totals[lang] || 0) + bytes;
+            }
+            const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+            const all = Object.values(totals).reduce((a, b) => a + b, 0) || 1;
+            const top = Object.entries(totals).sort((a, b) => b[1] - a[1]).slice(0, 6);
+            const topSum = top.reduce((a, t) => a + t[1], 0) || 1;
+            const pal = ['#00e5a0', '#00d4ff', '#ff2b6a', '#e8e8e8', '#00a372', '#8b949e'];
+            const F = '"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace';
+            const W = 495, H = 92 + top.length * 22;
+            let x = 25, bar = '', rows = '';
+            top.forEach((t, i) => {
+              const w = t[1] / topSum * 445;
+              bar += '<rect x="' + x.toFixed(1) + '" y="50" width="' + w.toFixed(1) + '" height="8" fill="' + pal[i] + '"/>';
+              x += w;
+              const pct = t[1] / all * 100, y = 84 + i * 22;
+              rows += '<g class="rw" style="animation-delay:' + (i * 0.12).toFixed(2) + 's">'
+                + '<rect x="25" y="' + (y - 9) + '" width="9" height="9" rx="2" fill="' + pal[i] + '"/>'
+                + '<text x="44" y="' + y + '" class="ln">' + esc(t[0]) + '</text>'
+                + '<rect x="200" y="' + (y - 6) + '" width="200" height="4" rx="2" fill="#0f2a22"/>'
+                + '<rect x="200" y="' + (y - 6) + '" width="' + Math.max(2, pct * 2).toFixed(1) + '" height="4" rx="2" fill="' + pal[i] + '"/>'
+                + '<text x="470" y="' + y + '" text-anchor="end" class="pc">' + pct.toFixed(1) + '%</text></g>';
+            });
+            const svg = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + W + ' ' + H + '" width="' + W + '" height="' + H + '" role="img" aria-label="top languages">'
+              + '<defs><clipPath id="bc"><rect x="25" y="50" width="445" height="8" rx="4"/></clipPath>'
+              + '<linearGradient id="sg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00e5a0" stop-opacity="0"/><stop offset="1" stop-color="#00e5a0" stop-opacity=".14"/></linearGradient>'
+              + '<pattern id="dt" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#00e5a0" fill-opacity=".12"/></pattern>'
+              + '<text id="tt" x="25" y="34" class="tt"><tspan class="gp">&gt;</tspan> top_languages<tspan class="cur">_</tspan></text></defs>'
+              + '<style>'
+              + '.tt{font:700 17px ' + F + ';fill:var(--c,#e8e8e8)}.gp{fill:var(--p,#00e5a0)}'
+              + '.ln{font:13px ' + F + ';fill:#e8e8e8}.pc{font:12px ' + F + ';fill:#00e5a0}.sm{font:10px ' + F + ';fill:#8b949e}'
+              + '.cur{animation:bl 1s steps(1) infinite}@keyframes bl{50%{fill-opacity:0}}'
+              + '.rgb{opacity:0;animation:5.3s steps(1) infinite}.rr{animation-name:rr}.rc{animation-name:rc}'
+              + '@keyframes rr{0%,88%,100%{opacity:0;transform:none}88.5%{opacity:.75;transform:translateX(-3px)}90%{opacity:.5;transform:translateX(2px)}90.6%{opacity:0;transform:none}}'
+              + '@keyframes rc{0%,88%,100%{opacity:0;transform:none}88.5%{opacity:.75;transform:translateX(3px)}90%{opacity:.5;transform:translateX(-2px)}90.6%{opacity:0;transform:none}}'
+              + '.bar{animation:bj 5.3s steps(1) infinite}@keyframes bj{0%,88%,100%{transform:none}88.5%{transform:translateX(-8px)}89.5%{transform:translateX(5px)}90.5%{transform:none}}'
+              + '.rw{animation:rj 7.1s steps(1) infinite}@keyframes rj{0%,93%,100%{transform:none;opacity:1}93.5%{transform:translateX(6px);opacity:.6}94.3%{transform:none;opacity:1}}'
+              + '.bk{opacity:0;animation:bf 4.7s steps(1) infinite}@keyframes bf{0%,90%,100%{opacity:0}91%{opacity:.85}92.5%{opacity:0}94%{opacity:.5}95%{opacity:0}}'
+              + '.scn{animation:sc 5s linear infinite}@keyframes sc{from{transform:translateY(-30px)}to{transform:translateY(' + H + 'px)}}'
+              + '</style>'
+              + '<rect width="' + W + '" height="' + H + '" rx="12" fill="#000"/><rect width="' + W + '" height="' + H + '" rx="12" fill="url(#dt)"/>'
+              + '<g class="scn"><rect width="' + W + '" height="30" fill="url(#sg)"/></g>'
+              + '<rect x=".5" y=".5" width="' + (W - 1) + '" height="' + (H - 1) + '" rx="12" fill="none" stroke="#0f2a22"/>'
+              + '<g class="rgb rr" style="--c:#ff2b6a;--p:#ff2b6a"><use href="#tt"/></g><g class="rgb rc" style="--c:#00d4ff;--p:#00d4ff"><use href="#tt"/></g><use href="#tt"/>'
+              + '<text x="470" y="34" text-anchor="end" class="sm">[ ' + Object.keys(totals).length + ' langs ]</text>'
+              + '<g class="bar"><g clip-path="url(#bc)"><rect x="25" y="50" width="445" height="8" fill="#0f2a22"/>' + bar + '</g></g>'
+              + rows
+              + '<rect class="bk" x="310" y="46" width="40" height="2" fill="#ff2b6a"/><rect class="bk" x="120" y="60" width="28" height="2" fill="#00d4ff" style="animation-delay:.2s"/>'
+              + '<rect class="bk" x="380" y="' + (H - 30) + '" width="50" height="2" fill="#00e5a0" style="animation-delay:2.4s"/><rect class="bk" x="60" y="' + (H - 12) + '" width="22" height="3" fill="#e8e8e8" style="animation-delay:3.1s"/>'
+              + '</svg>';
+            fs.writeFileSync('.github/top-langs.svg', svg);
+            core.info('Top: ' + top.map(t => t[0]).join(', '));
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add .github/top-langs.svg
+          git diff --staged --quiet || (git commit -m "chore: actualizar top languages" && git push)
