@@ -4,7 +4,11 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/▲_Portfolio-000000?style=for-the-badge&logoColor=white)](https://brandonalvis.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=900&color=00E5A0&center=true&vCenter=true&width=520&height=32&lines=%3E+inicializando+brandon.exe...;%3E+fullstack_developer+%5Bonline%5D;%3E+transformando+ideas+en+c%C3%B3digo_" alt="typing" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/▲_Portfolio-000000?style=for-the-badge&logoColor=00E5A0)](https://brandonalvis.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E5A0)](https://www.linkedin.com/in/brandon-alvis-b2385721a/)
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00E5A0)](https://discord.com/users/720035730382127155)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E5A0)](https://github.com/NoName-IA)
@@ -16,19 +20,13 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## 💻 Sobre Mí
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-whoami.svg" width="100%" />
 
 Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, desde interfaces pulidas hasta una lógica de backend y bases de datos sólidas. Me adapto a las necesidades de cada proyecto y me encanta transformar ideas en experiencias funcionales.
 
----
-
-## 🎯 Intereses
-
-💻 Desarrollo Web | 🗄️ Bases de Datos | ⚙️ Automatización | 🧠 Inteligencia Artificial | 🌐 Arquitectura de Software | 🎮 Gaming
-
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
 ## `> tech_stack`
 
@@ -39,43 +37,37 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 <br/><br/>
 
 
-![VSCode](https://img.shields.io/badge/VS_CODE-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-1A73E8?style=for-the-badge&logo=google&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_CODE-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00E5A0)
+![Cursor](https://img.shields.io/badge/CURSOR-000000?style=for-the-badge&logo=cursor&logoColor=00E5A0)
+![Antigravity](https://img.shields.io/badge/ANTIGRAVITY-000000?style=for-the-badge&logo=google&logoColor=00E5A0)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## 🌟 Proyectos Destacados
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-proyectos.svg" width="100%" />
 
 **💼 [Portfolio Personal](https://brandonalvis.vercel.app/)** — Sitio web profesional y portafolio de proyectos
 
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## 📊 GitHub activity
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-activity.svg" width="100%" />
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NoName-IA&theme=github_dark" alt="Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=donut&langs_count=3&hide_border=false&bg_color=0d1117&border_color=21262d&title_color=00E5A0&text_color=e6edf3" alt="Top languages" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=NoName-IA&theme=github-dark-blue&hide_border=false" alt="Streak" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoName-IA&layout=donut&langs_count=3&hide_border=false&bg_color=000000&border_color=0f2a22&title_color=00E5A0&text_color=e6edf3" alt="Top languages" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=NoName-IA&hide_border=false&background=000000&border=0f2a22&stroke=0f2a22&ring=00E5A0&fire=00E5A0&currStrNum=00E5A0&currStrLabel=00E5A0&sideNums=E8E8E8&sideLabels=8B949E&dates=6E7681" alt="Streak" width="60%" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## 💬 Filosofía
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-filosofia.svg" width="100%" />
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-> ### *"El hábito de hacerlo bien elimina la opción de hacerlo mal."*
-
-</div>
-
----
-
-## 🐍 Contribuciones
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-contribuciones.svg" width="100%" />
 
 <div align="center">
 
@@ -86,9 +78,9 @@ Desarrollador Full Stack · entusiasta del desarrollo de aplicaciones robustas, 
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/divider.svg" width="100%" />
 
-## 💰 Apóyame
+<img src="https://raw.githubusercontent.com/NoName-IA/NoName-IA/main/.github/sec-apoyame.svg" width="100%" />
 
 <div align="center">
 
