@@ -55,6 +55,7 @@
     <rect x="562" y="212.5" width="188" height="35" rx="7" fill="#ffffff" fill-opacity=".12" stroke="#2a2724" stroke-width="1.2"/>
     <text x="656" y="235" text-anchor="middle" font-family="'Space Grotesk','Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#24211e">brandonalvis.vercel.app ↗</text>
   </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 820 -10;2.2 820 -10;0 820 -10;-2.2 820 -10;0 820 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="6.5s" begin="-0.4s" repeatCount="indefinite"/>
   <use href="#h0" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h0" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="1.55s" fill="freeze"/>
@@ -64,6 +65,8 @@
     <circle cx="843" cy="198" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="843" cy="198" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 846 -10;1.8 846 -10;0 846 -10;-1.8 846 -10;0 846 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="7.2s" begin="-2.1s" repeatCount="indefinite"/>
   <use href="#h1" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h1" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="1.67s" fill="freeze"/>
@@ -73,6 +76,8 @@
     <circle cx="863" cy="210" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.6s" repeatCount="indefinite"/></circle>
     <circle cx="863" cy="210" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 872 -10;2.5 872 -10;0 872 -10;-2.5 872 -10;0 872 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="5.8s" begin="-3.3s" repeatCount="indefinite"/>
   <use href="#h2" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h2" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="1.79s" fill="freeze"/>
@@ -82,6 +87,8 @@
     <circle cx="885" cy="220" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="885" cy="220" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 898 -10;1.6 898 -10;0 898 -10;-1.6 898 -10;0 898 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="8s" begin="-1.2s" repeatCount="indefinite"/>
   <use href="#h3" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h3" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="1.91s" fill="freeze"/>
@@ -91,6 +98,8 @@
     <circle cx="906" cy="206" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="906" cy="206" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 924 -10;2 924 -10;0 924 -10;-2 924 -10;0 924 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="6.9s" begin="-4.5s" repeatCount="indefinite"/>
   <use href="#h4" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h4" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.03s" fill="freeze"/>
@@ -100,6 +109,8 @@
     <circle cx="927" cy="192" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="927" cy="192" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 948 -10;2.4 948 -10;0 948 -10;-2.4 948 -10;0 948 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="7.6s" begin="-2.8s" repeatCount="indefinite"/>
   <use href="#h5" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h5" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.15s" fill="freeze"/>
@@ -109,6 +120,8 @@
     <circle cx="948" cy="170" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="948" cy="170" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 858 -10;1.5 858 -10;0 858 -10;-1.5 858 -10;0 858 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="6.2s" begin="-5.1s" repeatCount="indefinite"/>
   <use href="#h6" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#h6" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.27s" fill="freeze"/>
@@ -118,6 +131,8 @@
     <circle cx="871" cy="246" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="871" cy="246" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 905 -10;0.7 905 -10;0 905 -10;-0.7 905 -10;0 905 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="9s" begin="-1.5s" repeatCount="indefinite"/>
   <use href="#t0" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#t0" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.75s" fill="freeze"/>
@@ -127,6 +142,8 @@
     <circle cx="220" cy="47" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="2.8s" repeatCount="indefinite"/></circle>
     <circle cx="220" cy="47" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 930 -10;0.6 930 -10;0 930 -10;-0.6 930 -10;0 930 -10" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="10.5s" begin="-4s" repeatCount="indefinite"/>
   <use href="#t1" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#t1" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.95s" fill="freeze"/>
@@ -136,6 +153,8 @@
     <circle cx="228" cy="262" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="3.0s" repeatCount="indefinite"/></circle>
     <circle cx="228" cy="262" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
   </g>
+  </g>
+  <g><animateTransform attributeName="transform" type="rotate" values="0 350 212;3.5 350 212;0 350 212;-3.5 350 212;0 350 212" keyTimes="0;.25;.5;.75;1" calcMode="spline" keySplines=".37 0 .63 1;.37 0 .63 1;.37 0 .63 1;.37 0 .63 1" dur="6s" begin="-2s" repeatCount="indefinite"/>
   <use href="#t2" fill="none" stroke="#a39b90" stroke-width="6.5" stroke-linecap="round"/>
   <use href="#t2" fill="none" stroke="#f5f2ed" stroke-width="4.5" stroke-linecap="round"/>
   <g opacity="0"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.95;1" dur="2.35s" fill="freeze"/>
@@ -144,6 +163,7 @@
     <line x1="220" y1="232" x2="200" y2="230" stroke="#f6d18a" stroke-width="1.3" stroke-linecap="round" opacity=".8"/>
     <circle cx="200" cy="230" r="10" fill="#ffc86e" opacity=".45" filter="url(#soft)"><animate attributeName="opacity" values=".25;.6;.25" dur="3.0s" repeatCount="indefinite"/></circle>
     <circle cx="200" cy="230" r="3.2" fill="#fff8e6" filter="url(#glow)"/>
+  </g>
   </g>
   <circle cx="800" cy="230" r="1.6" fill="#fff6dc" filter="url(#glow)" opacity="0"><animate attributeName="cy" values="230;196" dur="4.5s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4.5s" begin="1.2s" repeatCount="indefinite"/></circle>
   <circle cx="830" cy="250" r="1.2" fill="#fff6dc" filter="url(#glow)" opacity="0"><animate attributeName="cy" values="250;216" dur="2.9s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="2.9s" begin="1.6s" repeatCount="indefinite"/></circle>
